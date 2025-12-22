@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,3 +23,9 @@
     <hr>
 </body>
 </html>
+=======
+<?php
+session_start();
+require_once "manager.php";
+?>
+>>>>>>> eak-dev

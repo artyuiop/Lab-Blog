@@ -8,11 +8,14 @@
 <body>
     <h1>thapakorn-Blog</h1>
     <hr>
-    <p>ฐปกร คำบ่อ (อาร์ตี้)</p>
+    <p>เด็กชายฐปกร คำบ่อ (อาร์ตี้)</p>
     <p>thapakorn khambo (Arty)</p>
     <hr>
     <p>นาย เอกอมร เตียงทูน (เอก)</p>
     <p>Eakmon Tingtoon (EAK)</p>
+    <hr>
+    <p>นายประสิทธิ์  สะภา (ไมค์)</p>
+    <p>Pasit sapa (Mike)</p>
     <hr>
 </body>
 </html>

@@ -11,5 +11,8 @@
     <p>ฐปกร คำบ่อ (อาร์ตี้)</p>
     <p>thapakorn khambo (Arty)</p>
     <hr>
+    <p>นาย เอกอมร เตียงทูน (เอก)</p>
+    <p>Eakmon Tingtoon (EAK)</p>
+    <hr>
 </body>
 </html>
